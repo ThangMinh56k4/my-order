@@ -1,0 +1,45 @@
+common:
+  view: Xem
+  edit: Sửa
+  delete: Xóa
+  save: Lưu
+  cancel: Hủy
+  back: Quay lại
+  required: Bắt buộc
+  search: Tìm kiếm
+indexPage:
+  title: Thực đơn
+  plhd_search: Nhập từ khóa tìm kiếm
+  btn_order: Đặt món - {total}
+signUpPage: 
+  title: Đăng ký
+  email: Email
+  password: Mật khẩu
+  confirm: Xác nhận mật khẩu
+  plhd_email: Nhập email
+  plhd_password: Nhập mật khẩu
+  plhd_confirm: Nhập lại mật khẩu
+  btn_signUp: Đăng ký
+  link_signIn: Đã có tài khoản? Đăng nhập
+  error_required: 
+    email: Email là bắt buộc
+    password: Mật khẩu là bắt buộc
+    confirm: Xác nhận mật khẩu là bắt buộc
+  error_invalid:
+    email: Email không hợp lệ
+    confirm: Mật khẩu không khớp
+signInPage:
+  title: Đăng nhập
+  email: Email
+  password: Mật khẩu
+  plhd_email: Nhập email
+  plhd_password: Nhập mật khẩu
+  btn_signIn: Đăng nhập
+  link_signUp: Chưa có tài khoản? Đăng ký
+  link_forgot: Quên mật khẩu?
+  error_required: 
+    email: Email là bắt buộc
+    password: Mật khẩu là bắt buộc
+  error_invalid:  
+    email: Email không hợp lệ
+    credentials: Email hoặc mật khẩu không đúng

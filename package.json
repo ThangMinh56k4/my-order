@@ -1,0 +1,43 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^8.3.1",
+    "dayjs": "^1.11.11",
+    "nuxt": "^3.11.2",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@element-plus/nuxt": "^1.0.9",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@nuxt/eslint": "^0.3.12",
+    "@pinia/nuxt": "^0.5.1",
+    "@unocss/nuxt": "^0.60.0",
+    "@unocss/preset-rem-to-px": "^0.60.0",
+    "@unocss/preset-wind": "^0.60.0",
+    "@unocss/transformer-directives": "^0.60.0",
+    "@vesp/nuxt-fontawesome": "^1.0.4",
+    "element-plus": "^2.7.2",
+    "eslint": "^9.2.0",
+    "eslint-webpack-plugin": "^4.1.0",
+    "firebase": "^10.11.1",
+    "pinia": "^2.1.7",
+    "sass": "^1.77.1",
+    "typescript": "^5.4.5",
+    "unocss": "^0.60.0",
+    "vue-tsc": "1"
+  }
+}

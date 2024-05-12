@@ -1,0 +1,46 @@
+common:
+  view: View
+  edit: Edit
+  delete: Delete
+  save: Save
+  cancel: Cancel
+  back: Back
+  required: Required
+  search: Search
+indexPage:
+  title: Menu
+  plhd_search: Enter search keyword
+  btn_order: Order - {total}
+signUpPage: 
+  title: Sign up
+  email: Email
+  password: Password
+  confirm: Confirm password
+  plhd_email: Enter email
+  plhd_password: Enter password
+  plhd_confirm: Confirm password
+  btn_signUp: Sign up
+  link_signIn: Already have an account? Sign in
+  error_required: 
+    email: Email is required
+    password: Password is required
+    confirm: Confirm password is required
+  error_invalid:
+    email: Invalid email
+    confirm: Passwords do not match
+
+signInPage:
+  title: Sign in
+  email: Email
+  password: Password
+  plhd_email: Enter email
+  plhd_password: Enter password
+  btn_signIn: Sign in
+  link_signUp: Don't have an account? Sign up
+  link_forgot: Forgot password?
+  error_required: 
+    email: Email is required
+    password: Password is required
+  error_invalid:
+    email: Invalid email
+    credentials: Invalid email or password
